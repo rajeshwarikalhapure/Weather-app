@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  color: #333;
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+#cityInput {
+  border-radius: 10px 0 0 10px;
+}
+
+#getWeatherBtn {
+  border-radius: 0 10px 10px 0;
+}
